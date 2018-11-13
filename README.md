@@ -3,6 +3,8 @@ GAN Experiment with stanford-cars (Kaggle)
 
 ## Output from 28x28 Stanford Cars
 
+![Output](output/cars-dcgan/cars_progression.gif)
+
 ```
   100.00  ┼                                                                        ╭╮
    95.00  ┤╭╮╭╮  ╭╮╭─╮        ╭╮╭──╮  ╭╮              ╭╮        ╭╮      ╭╮         ││╭╮   ╭╮   ╭─╮ ╭╮╭╮   ╭╮╭╮
